@@ -39,7 +39,8 @@ PHONE_NUMBER = "+918123407093"
 # MULTIPLE SOURCE GROUPS - ADD YOUR GROUPS HERE!
 SOURCE_GROUPS = [
     -1002273285238,
-    -1002682944548, # Original group
+    -1002682944548,
+    -1002319403142,# Original group
     # Add your additional groups here:
     # -1002647815754,  # Example additional group
     # -1002647815755,  # Example additional group
@@ -47,7 +48,7 @@ SOURCE_GROUPS = [
 
 # MULTIPLE TARGET CHANNELS - ADD YOUR CHANNELS HERE!
 TARGET_CHANNELS = [
-    -1002783784144, # Original channel
+    -1002328456850, # Original channel
     # Add your additional channels here:
     # -1002783784145,  # Example additional channel
     # -1002783784146,  # Example additional channel
